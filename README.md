@@ -1,0 +1,2 @@
+# kaiserzone
+A humble blog

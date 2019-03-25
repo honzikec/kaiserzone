@@ -1,13 +1,13 @@
 <template>
-  <section class="container">
-    <div>
-      <logo/>
-      <h1 class="title">kaiserzone</h1>
-      <h2 class="subtitle">The Kaiser Zone - a blog</h2>
-      <div class="links">
-        <a href="https://nuxtjs.org/" target="_blank" class="button--green">Documentation</a>
-        <a href="https://github.com/nuxt/nuxt.js" target="_blank" class="button--grey">GitHub</a>
-      </div>
-    </div>
+  <section>
+    <h1 class="title">
+      Welcome to the Kaiser.Zone
+    </h1>
+    <h2>
+      A humble (tech) blog
+    </h2>
+    <ul style="margin-top: 60px;">
+      <li><a href="/hot-desking">Hot Desking - a Hot Take</a></li>
+    </ul>
   </section>
 </template>
